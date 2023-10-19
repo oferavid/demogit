@@ -1,4 +1,4 @@
 git stash
 
-
+This is much better! git fetch comment will only show the changes on the github service.
 practicing git stash
