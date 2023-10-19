@@ -1,1 +1,2 @@
-/this is the new file
+Why vi is not a intutative editor? or is it?
+this is the new file
